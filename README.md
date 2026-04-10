@@ -1,6 +1,6 @@
 # HomeHero Pro
 
-Premium mobile-style React/Vite app inspired by your Base44 screenshots.
+Premium mobile-style React/Vite app.
 
 ## Run
 ```bash
